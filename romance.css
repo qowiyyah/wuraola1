@@ -1,0 +1,76 @@
+
+body{
+    margin: o;
+    padding: 0;
+    background-color: palevioletred;
+}
+
+/* CSS to style the book container and its elements */
+.book {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px; /* Adjust as needed */
+  }
+  
+  .book img {
+    width: 300px; /* Adjust the width of the book cover */
+    margin-right: 10px; /* Adjust the spacing between the cover and info */
+  }
+  
+  .book-info {
+    flex: 1;
+  }
+  
+  .book-title {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+
+  
+  .book-summary {
+    margin: 80;
+    font-size: 30px ;
+    
+   
+  }
+
+
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .black-footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .centered-content {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+  }
+
+  .underline {
+    border-bottom: 1px solid white;
+  }
+
+  .instagram-logo {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 90px;
+  }
+
+
+  .instagram-logo p {
+    display: inline;
+    vertical-align: middle;
+    margin-left: px;
+  }
